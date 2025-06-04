@@ -20,6 +20,7 @@ dnf install waybar
 step two
 From here execute waybar in the terminal to make sure it works
 then go into your .config so .config/sway/config replace 
+
 bar {
     position top
 
@@ -34,6 +35,7 @@ bar {
     }
 }
 with 
+
 bar {
  swaybar_command waybar
 }
