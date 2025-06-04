@@ -19,8 +19,9 @@ dnf install waybar
 
 step two
 From here execute waybar in the terminal to make sure it works
-then go into your .config so .config/sway/config replace 
+then go into your .config so .config/sway/config and replace
 
+#
 bar {
     position top
     status_command while date +'%Y-%m-%d %X'; do sleep 1; done
@@ -31,7 +32,7 @@ bar {
         inactive_workspace #32323200 #32323200 #5c5c5c
     }
 }
-
+#
 with 
 
 bar {
