@@ -20,14 +20,9 @@ dnf install waybar
 step two
 From here execute waybar in the terminal to make sure it works
 then go into your .config so .config/sway/config replace 
-'''
-hi
-'''
+
 bar {
     position top
-
-    # When the status_command prints a new line to stdout, swaybar updates.
-    # The default just shows the current date and time.
     status_command while date +'%Y-%m-%d %X'; do sleep 1; done
 
     colors {
@@ -38,11 +33,11 @@ bar {
 }
 
 with 
-'''
+
 bar {
  swaybar_command waybar
 }
-'''
+
 
 
 step three
