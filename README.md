@@ -20,7 +20,7 @@ dnf install waybar
 step two
 From here execute waybar in the terminal to make sure it works
 then go into your .config so .config/sway/config replace 
-...
+'''
 bar {
     position top
 
@@ -34,7 +34,7 @@ bar {
         inactive_workspace #32323200 #32323200 #5c5c5c
     }
 }
-...
+'''
 with 
 
 bar {
