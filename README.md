@@ -73,7 +73,7 @@ replace these two files
 style.css 
 config.jsonc with my configs!
 linked here
-[config](https://github.com/nyctoethos/nyctoethos-sway-waybar/blob/main/config.jsonc)
-
+[config.jsonc](https://github.com/nyctoethos/nyctoethos-sway-waybar/blob/main/config.jsonc)
+[styles.css](https://github.com/nyctoethos/nyctoethos-sway-waybar/blob/main/styles.css)
 
 
