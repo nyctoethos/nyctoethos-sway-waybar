@@ -48,9 +48,9 @@ with
 
 ```
 step three
-after waybar is installed and set in .config/sway go to your .config and 
+after waybar is installed and set in .config/sway go to your .config and do the command mkdir
 ```
- mkdir ~/.config/way
+ mkdir ~/.config/waybar
 ```
 then cd into 
 ```/etc/xdg/waybar/```
