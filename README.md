@@ -21,6 +21,8 @@ step two
 From here execute waybar in the terminal to make sure it works
 then go into your .config so .config/sway/config replace 
 '''
+hi
+'''
 bar {
     position top
 
