@@ -34,13 +34,13 @@ bar {
         inactive_workspace #32323200 #32323200 #5c5c5c
     }
 }
-'''
-with 
 
+with 
+'''
 bar {
  swaybar_command waybar
 }
-
+'''
 
 
 step three
