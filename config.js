@@ -1,4 +1,4 @@
-// -*- mode: jsonc -*-
+ -*- mode: json 
 {
     // "layer": "top", // Waybar at top layer
     // "position": "bottom", // Waybar position (top|bottom|left|right)
